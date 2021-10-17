@@ -1,0 +1,17 @@
+D:\Proyectos\Blog\Logic\bin\Debug\Logic.dll
+D:\Proyectos\Blog\Logic\bin\Debug\Logic.pdb
+D:\Proyectos\Blog\Logic\bin\Debug\Common.dll
+D:\Proyectos\Blog\Logic\bin\Debug\Data.dll
+D:\Proyectos\Blog\Logic\bin\Debug\Model.dll
+D:\Proyectos\Blog\Logic\bin\Debug\EntityFramework.dll
+D:\Proyectos\Blog\Logic\bin\Debug\Common.pdb
+D:\Proyectos\Blog\Logic\bin\Debug\Data.pdb
+D:\Proyectos\Blog\Logic\bin\Debug\Data.dll.config
+D:\Proyectos\Blog\Logic\bin\Debug\Model.pdb
+D:\Proyectos\Blog\Logic\bin\Debug\Model.dll.config
+D:\Proyectos\Blog\Logic\bin\Debug\EntityFramework.xml
+D:\Proyectos\Blog\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+D:\Proyectos\Blog\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\Proyectos\Blog\Logic\obj\Debug\Logic.dll
+D:\Proyectos\Blog\Logic\obj\Debug\Logic.pdb
+D:\Proyectos\Blog\Logic\obj\Debug\Logic.csproj.CopyComplete

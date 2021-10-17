@@ -1,0 +1,17 @@
+D:\Proyectos\Blog\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\Proyectos\Blog\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Proyectos\Blog\Data\bin\Debug\Data.dll.config
+D:\Proyectos\Blog\Data\bin\Debug\Data.dll
+D:\Proyectos\Blog\Data\bin\Debug\Data.pdb
+D:\Proyectos\Blog\Data\bin\Debug\Common.dll
+D:\Proyectos\Blog\Data\bin\Debug\EntityFramework.dll
+D:\Proyectos\Blog\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\Blog\Data\bin\Debug\Model.dll
+D:\Proyectos\Blog\Data\bin\Debug\Common.pdb
+D:\Proyectos\Blog\Data\bin\Debug\Model.pdb
+D:\Proyectos\Blog\Data\bin\Debug\Model.dll.config
+D:\Proyectos\Blog\Data\bin\Debug\EntityFramework.xml
+D:\Proyectos\Blog\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\Blog\Data\obj\Debug\Data.dll
+D:\Proyectos\Blog\Data\obj\Debug\Data.pdb
+D:\Proyectos\Blog\Data\obj\Debug\Data.csproj.CopyComplete
